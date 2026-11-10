@@ -1,0 +1,6 @@
+{
+  "name": "Used Car Price Prediction — CART Regression",
+  "description": "Academic Machine Learning application demonstrating the CART (DecisionTreeRegressor) algorithm for Indian used car resale price prediction, dataset exploration, hyperparameter tuning, and model analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

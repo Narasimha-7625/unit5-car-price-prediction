@@ -1,0 +1,148 @@
+brand,model,year,selling_price,km_driven,fuel,transmission,owner,mileage,engine,max_power,seats
+Maruti Suzuki,Swift VXi,2019,545000,34000,Petrol,Manual,First Owner,21.21 kmpl,1197 CC,81.80 bhp,5
+Maruti Suzuki,Swift ZXi Plus AMT,2021,715000,22500,Petrol,Automatic,First Owner,23.76 kmpl,1197 CC,88.50 bhp,5
+Maruti Suzuki,Swift VDi,2017,465000,68000,Diesel,Manual,Second Owner,28.40 kmpl,1248 CC,74.00 bhp,5
+Maruti Suzuki,Baleno Delta,2020,625000,29000,Petrol,Manual,First Owner,21.01 kmpl,1197 CC,81.80 bhp,5
+Maruti Suzuki,Baleno Alpha CVT,2022,845000,14500,Petrol,Automatic,First Owner,22.94 kmpl,1197 CC,88.50 bhp,5
+Maruti Suzuki,Baleno Zeta,2018,530000,49000,Petrol,Manual,First Owner,21.40 kmpl,1197 CC,83.10 bhp,5
+Maruti Suzuki,Wagon R VXi,2018,395000,44000,Petrol,Manual,First Owner,22.50 kmpl,998 CC,67.04 bhp,5
+Maruti Suzuki,Wagon R LXi CNG,2021,515000,31000,CNG,Manual,First Owner,32.52 km/kg,998 CC,58.33 bhp,5
+Maruti Suzuki,Wagon R ZXi AMT,2022,590000,16000,Petrol,Automatic,First Owner,24.43 kmpl,1197 CC,88.50 bhp,5
+Maruti Suzuki,Alto 800 LXi,2016,235000,58000,Petrol,Manual,Second Owner,24.70 kmpl,796 CC,47.30 bhp,5
+Maruti Suzuki,Alto 800 VXi,2020,345000,24000,Petrol,Manual,First Owner,22.05 kmpl,796 CC,47.30 bhp,5
+Maruti Suzuki,Alto K10 VXi AGS,2019,375000,33000,Petrol,Automatic,First Owner,24.07 kmpl,998 CC,67.10 bhp,5
+Maruti Suzuki,Dzire VXi,2019,595000,38000,Petrol,Manual,First Owner,21.21 kmpl,1197 CC,81.80 bhp,5
+Maruti Suzuki,Dzire ZDi Plus AMT,2018,645000,62000,Diesel,Automatic,First Owner,28.40 kmpl,1248 CC,74.00 bhp,5
+Maruti Suzuki,Dzire ZXi Plus,2022,810000,15500,Petrol,Manual,First Owner,23.26 kmpl,1197 CC,88.50 bhp,5
+Maruti Suzuki,Vitara Brezza ZDi,2018,735000,56000,Diesel,Manual,First Owner,24.30 kmpl,1248 CC,88.50 bhp,5
+Maruti Suzuki,Vitara Brezza ZXi AT,2021,965000,21000,Petrol,Automatic,First Owner,18.76 kmpl,1462 CC,103.26 bhp,5
+Maruti Suzuki,Brezza VXi,2023,985000,11000,Petrol,Manual,First Owner,19.89 kmpl,1462 CC,101.65 bhp,5
+Maruti Suzuki,Ertiga VXi CNG,2021,945000,36000,CNG,Manual,First Owner,26.08 km/kg,1462 CC,86.63 bhp,7
+Maruti Suzuki,Ertiga ZXi Plus AT,2022,1165000,19000,Petrol,Automatic,First Owner,20.30 kmpl,1462 CC,101.65 bhp,7
+Maruti Suzuki,Ertiga VDi,2017,675000,79000,Diesel,Manual,Second Owner,24.52 kmpl,1248 CC,88.50 bhp,7
+Maruti Suzuki,Ciaz Alpha,2019,765000,41000,Petrol,Manual,First Owner,21.56 kmpl,1462 CC,103.25 bhp,5
+Maruti Suzuki,Ciaz Delta Diesel,2017,585000,74000,Diesel,Manual,Second Owner,28.09 kmpl,1248 CC,88.50 bhp,5
+Hyundai,i20 Sportz,2019,615000,37000,Petrol,Manual,First Owner,18.60 kmpl,1197 CC,81.86 bhp,5
+Hyundai,i20 Asta IVT,2022,935000,14000,Petrol,Automatic,First Owner,19.65 kmpl,1197 CC,86.79 bhp,5
+Hyundai,i20 Magna Diesel,2018,595000,63000,Diesel,Manual,First Owner,22.54 kmpl,1396 CC,88.76 bhp,5
+Hyundai,Grand i10 Sportz,2018,435000,45000,Petrol,Manual,First Owner,18.90 kmpl,1197 CC,81.86 bhp,5
+Hyundai,Grand i10 Nios Asta AMT,2021,635000,24000,Petrol,Automatic,First Owner,20.70 kmpl,1197 CC,81.86 bhp,5
+Hyundai,Grand i10 Era,2015,295000,67000,Petrol,Manual,Second Owner,18.90 kmpl,1197 CC,81.86 bhp,5
+Hyundai,Creta SX,2019,1065000,44000,Diesel,Manual,First Owner,19.67 kmpl,1582 CC,126.20 bhp,5
+Hyundai,Creta SX Option IVT,2022,1585000,17500,Petrol,Automatic,First Owner,16.80 kmpl,1497 CC,113.43 bhp,5
+Hyundai,Creta E Plus,2017,795000,69000,Petrol,Manual,Second Owner,15.29 kmpl,1591 CC,121.30 bhp,5
+Hyundai,Creta SX Diesel AT,2021,1525000,28000,Diesel,Automatic,First Owner,18.50 kmpl,1493 CC,113.43 bhp,5
+Hyundai,Venue SX,2020,845000,31000,Petrol,Manual,First Owner,17.52 kmpl,1197 CC,81.86 bhp,5
+Hyundai,Venue SX Plus DCT,2022,1125000,16000,Petrol,Automatic,First Owner,18.15 kmpl,998 CC,118.36 bhp,5
+Hyundai,Verna SX,2019,865000,39000,Diesel,Manual,First Owner,22.00 kmpl,1582 CC,126.20 bhp,5
+Hyundai,Verna SX Option AT,2021,1175000,23000,Petrol,Automatic,First Owner,18.45 kmpl,1497 CC,113.18 bhp,5
+Hyundai,Santro Sportz AMT,2020,475000,28000,Petrol,Automatic,First Owner,20.30 kmpl,1086 CC,68.05 bhp,5
+Hyundai,Aura S CNG,2022,725000,22000,CNG,Manual,First Owner,28.00 km/kg,1197 CC,68.00 bhp,5
+Tata,Nexon XZ Plus,2020,835000,34000,Petrol,Manual,First Owner,17.00 kmpl,1199 CC,118.35 bhp,5
+Tata,Nexon XZA Plus Diesel,2022,1185000,18500,Diesel,Automatic,First Owner,22.40 kmpl,1497 CC,108.50 bhp,5
+Tata,Nexon XM,2018,625000,54000,Diesel,Manual,First Owner,21.50 kmpl,1497 CC,108.50 bhp,5
+Tata,Nexon EV Max XZ Plus,2023,1495000,12000,Electric,Automatic,First Owner,0 kmpl,0 CC,141.04 bhp,5
+Tata,Tiago XZ,2019,425000,36000,Petrol,Manual,First Owner,23.84 kmpl,1199 CC,84.00 bhp,5
+Tata,Tiago XZA Plus,2021,545000,21000,Petrol,Automatic,First Owner,23.84 kmpl,1199 CC,84.48 bhp,5
+Tata,Tiago iCNG XT,2022,585000,19000,CNG,Manual,First Owner,26.49 km/kg,1199 CC,72.41 bhp,5
+Tata,Altroz XZ,2021,695000,25000,Petrol,Manual,First Owner,19.05 kmpl,1199 CC,84.88 bhp,5
+Tata,Altroz XZ Diesel,2022,865000,22000,Diesel,Manual,First Owner,25.11 kmpl,1497 CC,88.77 bhp,5
+Tata,Harrier XZA Plus,2021,1645000,29000,Diesel,Automatic,First Owner,14.60 kmpl,1956 CC,167.67 bhp,5
+Tata,Harrier XT,2019,1245000,52000,Diesel,Manual,First Owner,16.70 kmpl,1956 CC,138.03 bhp,5
+Tata,Punch Creative AMT,2023,785000,11500,Petrol,Automatic,First Owner,18.82 kmpl,1199 CC,84.48 bhp,5
+Tata,Punch Accomplished,2022,685000,18000,Petrol,Manual,First Owner,18.97 kmpl,1199 CC,84.48 bhp,5
+Mahindra,XUV300 W8 Option,2020,895000,33000,Diesel,Manual,First Owner,20.00 kmpl,1497 CC,115.00 bhp,5
+Mahindra,XUV300 W6 AMT,2021,825000,26000,Petrol,Automatic,First Owner,17.00 kmpl,1197 CC,108.62 bhp,5
+Mahindra,XUV500 W10,2017,925000,78000,Diesel,Manual,Second Owner,16.00 kmpl,2179 CC,140.00 bhp,7
+Mahindra,XUV500 W11 AT,2019,1295000,51000,Diesel,Automatic,First Owner,14.00 kmpl,2179 CC,155.00 bhp,7
+Mahindra,XUV700 AX7 Diesel AT,2022,2245000,21000,Diesel,Automatic,First Owner,16.57 kmpl,2184 CC,182.38 bhp,7
+Mahindra,Scorpio S11,2019,1275000,54000,Diesel,Manual,First Owner,15.40 kmpl,2179 CC,140.00 bhp,7
+Mahindra,Scorpio N Z8L AT,2023,2085000,13000,Diesel,Automatic,First Owner,15.00 kmpl,2184 CC,172.45 bhp,7
+Mahindra,Thar LX Hard Top AT,2022,1545000,18000,Diesel,Automatic,First Owner,15.20 kmpl,2184 CC,130.00 bhp,4
+Mahindra,Thar LX Petrol MT,2021,1325000,24000,Petrol,Manual,First Owner,15.20 kmpl,1997 CC,150.00 bhp,4
+Mahindra,Bolero B6 Option,2021,795000,39000,Diesel,Manual,First Owner,16.00 kmpl,1493 CC,74.96 bhp,7
+Honda,City VX,2019,835000,38000,Petrol,Manual,First Owner,17.40 kmpl,1497 CC,117.30 bhp,5
+Honda,City ZX CVT,2021,1195000,22000,Petrol,Automatic,First Owner,18.40 kmpl,1498 CC,119.35 bhp,5
+Honda,City SV i-DTEC,2016,525000,76000,Diesel,Manual,Second Owner,26.00 kmpl,1498 CC,98.60 bhp,5
+Honda,City V i-VTEC,2015,465000,71000,Petrol,Manual,Second Owner,17.40 kmpl,1497 CC,117.30 bhp,5
+Honda,Amaze S Petrol,2019,555000,35000,Petrol,Manual,First Owner,19.50 kmpl,1199 CC,88.76 bhp,5
+Honda,Amaze VX CVT,2022,825000,16000,Petrol,Automatic,First Owner,18.30 kmpl,1199 CC,88.50 bhp,5
+Honda,Amaze V Diesel,2018,565000,59000,Diesel,Manual,First Owner,27.40 kmpl,1498 CC,98.60 bhp,5
+Honda,Jazz V CVT,2019,645000,33000,Petrol,Automatic,First Owner,19.00 kmpl,1199 CC,88.70 bhp,5
+Honda,WR-V VX Diesel,2018,715000,52000,Diesel,Manual,First Owner,25.50 kmpl,1498 CC,98.60 bhp,5
+Toyota,Innova Crysta 2.4 GX,2018,1485000,72000,Diesel,Manual,First Owner,13.68 kmpl,2393 CC,147.80 bhp,7
+Toyota,Innova Crysta 2.4 ZX AT,2021,2185000,38000,Diesel,Automatic,First Owner,11.36 kmpl,2393 CC,147.51 bhp,7
+Toyota,Innova 2.5 VX,2014,845000,118000,Diesel,Manual,Second Owner,12.99 kmpl,2494 CC,100.60 bhp,7
+Toyota,Fortuner 2.8 4x2 AT,2020,3150000,45000,Diesel,Automatic,First Owner,14.20 kmpl,2755 CC,174.50 bhp,7
+Toyota,Fortuner 2.8 4x4 MT,2018,2695000,68000,Diesel,Manual,First Owner,14.24 kmpl,2755 CC,174.50 bhp,7
+Toyota,Glanza G,2021,715000,22000,Petrol,Manual,First Owner,21.01 kmpl,1197 CC,81.80 bhp,5
+Toyota,Glanza V AMT,2022,845000,14000,Petrol,Automatic,First Owner,22.94 kmpl,1197 CC,88.50 bhp,5
+Toyota,Urban Cruiser High AT,2021,955000,24000,Petrol,Automatic,First Owner,18.76 kmpl,1462 CC,103.26 bhp,5
+Toyota,Etios Liva GD,2015,365000,82000,Diesel,Manual,Second Owner,23.59 kmpl,1364 CC,67.04 bhp,5
+Kia,Seltos HTX,2020,1215000,34000,Petrol,Manual,First Owner,16.50 kmpl,1497 CC,113.43 bhp,5
+Kia,Seltos GTX Plus DCT,2022,1675000,18000,Petrol,Automatic,First Owner,16.50 kmpl,1353 CC,138.08 bhp,5
+Kia,Seltos HTK Plus Diesel,2021,1345000,31000,Diesel,Manual,First Owner,21.00 kmpl,1493 CC,113.43 bhp,5
+Kia,Sonet HTX iMT,2021,945000,25000,Petrol,Manual,First Owner,18.20 kmpl,998 CC,118.36 bhp,5
+Kia,Sonet GTX Plus AT,2022,1225000,17000,Diesel,Automatic,First Owner,19.00 kmpl,1493 CC,113.43 bhp,5
+Volkswagen,Polo Highline Plus,2019,635000,39000,Petrol,Manual,First Owner,18.24 kmpl,999 CC,108.62 bhp,5
+Volkswagen,Polo GT TSI,2020,815000,29000,Petrol,Automatic,First Owner,16.47 kmpl,999 CC,108.62 bhp,5
+Volkswagen,Polo Comfortline,2015,365000,64000,Petrol,Manual,Second Owner,16.47 kmpl,1198 CC,74.00 bhp,5
+Volkswagen,Vento Highline Plus AT,2018,745000,48000,Diesel,Automatic,First Owner,22.15 kmpl,1498 CC,108.60 bhp,5
+Volkswagen,Taigun Highline AT,2022,1285000,16500,Petrol,Automatic,First Owner,18.10 kmpl,999 CC,113.98 bhp,5
+Skoda,Rapid Ambition,2018,595000,49000,Petrol,Manual,First Owner,15.41 kmpl,1598 CC,103.50 bhp,5
+Skoda,Rapid Monte Carlo AT,2020,865000,31000,Petrol,Automatic,First Owner,16.24 kmpl,999 CC,108.62 bhp,5
+Skoda,Kushaq Style AT,2022,1465000,17000,Petrol,Automatic,First Owner,17.88 kmpl,999 CC,114.00 bhp,5
+Renault,Kwid RXT,2019,335000,34000,Petrol,Manual,First Owner,25.17 kmpl,999 CC,67.00 bhp,5
+Renault,Kwid Climber AMT,2021,445000,19000,Petrol,Automatic,First Owner,22.00 kmpl,999 CC,67.06 bhp,5
+Renault,Triber RXZ,2021,625000,26000,Petrol,Manual,First Owner,19.00 kmpl,999 CC,71.01 bhp,7
+Renault,Duster RXZ Diesel,2017,615000,72000,Diesel,Manual,Second Owner,19.87 kmpl,1461 CC,108.45 bhp,5
+Ford,EcoSport Titanium,2019,745000,41000,Diesel,Manual,First Owner,23.00 kmpl,1498 CC,98.96 bhp,5
+Ford,EcoSport Titanium Plus AT,2020,895000,29000,Petrol,Automatic,First Owner,14.70 kmpl,1496 CC,120.69 bhp,5
+Ford,Figo Titanium,2016,355000,59000,Petrol,Manual,Second Owner,18.16 kmpl,1196 CC,86.80 bhp,5
+MG,Hector Sharp DCT,2020,1485000,35000,Petrol,Automatic,First Owner,13.96 kmpl,1451 CC,141.00 bhp,5
+MG,Hector Smart Diesel,2021,1565000,29000,Diesel,Manual,First Owner,15.81 kmpl,1956 CC,167.68 bhp,5
+MG,ZS EV Exclusive,2022,1945000,16000,Electric,Automatic,First Owner,0 kmpl,0 CC,140.80 bhp,5
+Maruti Suzuki,Swift LXi,2015,345000,62000,Petrol,Manual,Second Owner,20.40 kmpl,1197 CC,83.14 bhp,5
+Maruti Suzuki,Swift ZXi,2020,625000,28000,Petrol,Manual,First Owner,21.21 kmpl,1197 CC,81.80 bhp,5
+Maruti Suzuki,Baleno Sigma,2019,515000,41000,Petrol,Manual,First Owner,21.01 kmpl,1197 CC,81.80 bhp,5
+Maruti Suzuki,Ignis Zeta AMT,2020,545000,25000,Petrol,Automatic,First Owner,20.89 kmpl,1197 CC,81.80 bhp,5
+Maruti Suzuki,S-Cross Zeta Diesel,2018,715000,58000,Diesel,Manual,First Owner,25.10 kmpl,1248 CC,88.50 bhp,5
+Maruti Suzuki,Celerio VXi AMT,2019,425000,32000,Petrol,Automatic,First Owner,23.10 kmpl,998 CC,67.04 bhp,5
+Maruti Suzuki,Celerio ZXi,2022,555000,15000,Petrol,Manual,First Owner,25.24 kmpl,998 CC,65.71 bhp,5
+Maruti Suzuki,XL6 Alpha AT,2021,1095000,26000,Petrol,Automatic,First Owner,17.99 kmpl,1462 CC,103.26 bhp,6
+Hyundai,i10 Magna,2013,225000,74000,Petrol,Manual,Third Owner,20.36 kmpl,1197 CC,78.90 bhp,5
+Hyundai,i20 Elite Asta,2016,495000,59000,Petrol,Manual,Second Owner,18.60 kmpl,1197 CC,81.86 bhp,5
+Hyundai,Xcent SX,2017,445000,54000,Diesel,Manual,First Owner,24.40 kmpl,1120 CC,71.00 bhp,5
+Hyundai,Alcazar Signature Diesel AT,2022,1845000,21000,Diesel,Automatic,First Owner,18.10 kmpl,1493 CC,113.43 bhp,7
+Hyundai,Kona Electric Premium,2021,1585000,23000,Electric,Automatic,First Owner,0 kmpl,0 CC,134.10 bhp,5
+Tata,Safari XZA Plus,2022,1925000,22000,Diesel,Automatic,First Owner,14.08 kmpl,1956 CC,167.67 bhp,7
+Tata,Tigor XZ,2019,485000,38000,Petrol,Manual,First Owner,20.30 kmpl,1199 CC,84.00 bhp,5
+Tata,Tigor EV XZ Plus,2022,1025000,17000,Electric,Automatic,First Owner,0 kmpl,0 CC,73.75 bhp,5
+Tata,Nexon XZ Plus,2022,995000,16000,Petrol,Manual,First Owner,17.57 kmpl,1199 CC,118.35 bhp,5
+Mahindra,Marazzo M6,2019,865000,52000,Diesel,Manual,First Owner,17.30 kmpl,1497 CC,121.00 bhp,7
+Mahindra,KUV100 NXT K6 Plus,2018,395000,47000,Petrol,Manual,First Owner,18.15 kmpl,1198 CC,82.00 bhp,6
+Honda,BR-V V CVT,2017,745000,58000,Petrol,Automatic,Second Owner,16.00 kmpl,1497 CC,117.30 bhp,7
+Honda,City V CVT,2018,795000,45000,Petrol,Automatic,First Owner,18.00 kmpl,1497 CC,117.30 bhp,5
+Honda,Civic ZX CVT,2019,1495000,36000,Petrol,Automatic,First Owner,16.50 kmpl,1799 CC,139.46 bhp,5
+Toyota,Yaris V CVT,2019,785000,34000,Petrol,Automatic,First Owner,17.80 kmpl,1496 CC,105.50 bhp,5
+Toyota,Camry Hybrid,2020,3350000,31000,Petrol,Automatic,First Owner,23.27 kmpl,2487 CC,175.67 bhp,5
+Kia,Carens Prestige Diesel,2022,1265000,22000,Diesel,Manual,First Owner,21.30 kmpl,1493 CC,113.43 bhp,7
+Maruti Suzuki,Swift VXi,2019,₹ 5,45,000,34000,Petrol,Manual,First Owner,21.21 kmpl,1197 CC,81.80 bhp,5
+Hyundai,i20 Sportz,2020,6.65 Lakh,28000,Petrol,Manual,First Owner,,1197 CC,81.86 bhp,5
+Tata,Nexon XZ Plus,2021,9.10 Lakh,24000,Petrol,Manual,First Owner,17.00 kmpl,,118.35 bhp,5
+Honda,Amaze S Petrol,2020,615000,29000,Petrol,Manual,,19.50 kmpl,1199 CC,88.76 bhp,5
+Maruti Suzuki,Dzire VDi,2016,445000,72000,Diesel,Manual,Second Owner,26.59 kmpl,1248 CC,74.00 bhp,5
+Hyundai,Creta SX,2018,955000,54000,Diesel,Manual,First Owner,19.67 kmpl,1582 CC,126.20 bhp,5
+Maruti Suzuki,Wagon R VXi,2015,285000,68000,Petrol,Manual,Second Owner,20.51 kmpl,998 CC,67.04 bhp,5
+Toyota,Innova Crysta 2.4 VX,2019,1745000,59000,Diesel,Manual,First Owner,13.68 kmpl,2393 CC,147.80 bhp,7
+Renault,Kiger RXZ Turbo,2022,865000,15000,Petrol,Manual,First Owner,20.53 kmpl,999 CC,98.63 bhp,5
+Nissan,Magnite XV Premium,2021,765000,22000,Petrol,Manual,First Owner,18.75 kmpl,999 CC,98.63 bhp,5
+Nissan,Magnite XV Turbo CVT,2022,935000,14500,Petrol,Automatic,First Owner,17.70 kmpl,999 CC,98.63 bhp,5
+Skoda,Slavia Style 1.0 TSI AT,2022,1445000,15000,Petrol,Automatic,First Owner,18.07 kmpl,999 CC,113.98 bhp,5
+Volkswagen,Virtus Highline AT,2023,1395000,11000,Petrol,Automatic,First Owner,18.12 kmpl,999 CC,113.98 bhp,5
+Hyundai,Exter SX AMT,2023,825000,9000,Petrol,Automatic,First Owner,19.20 kmpl,1197 CC,81.80 bhp,5
+Maruti Suzuki,Fronx Zeta Turbo,2023,1045000,10500,Petrol,Manual,First Owner,21.50 kmpl,998 CC,98.69 bhp,5
+Maruti Suzuki,Grand Vitara Alpha AT,2023,1545000,12500,Petrol,Automatic,First Owner,20.58 kmpl,1462 CC,101.65 bhp,5
+Tata,Tiago XZ,2019,425000,36000,Petrol,Manual,First Owner,23.84 kmpl,1199 CC,84.00 bhp,5
+Invalid,DemoCar,2029,500000,-1200,Petrol,Manual,First Owner,20 kmpl,1200 CC,80 bhp,5
+Maruti Suzuki,Alto 800,2014,-45000,90000,Petrol,Manual,Third Owner,22 kmpl,796 CC,47 bhp,5
